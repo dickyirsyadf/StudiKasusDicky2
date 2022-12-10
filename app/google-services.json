@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993505853842",
+    "project_id": "testingappdicky",
+    "storage_bucket": "testingappdicky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993505853842:android:a99ffb4b61d2372b98814b",
+        "android_client_info": {
+          "package_name": "com.example.studikasusdicky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993505853842-eg7ghlsn53vbiuv64t9sskbb92e7brvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studikasusdicky",
+            "certificate_hash": "f95f1953b96817222d58827722c5b0e46ef9bf3a"
+          }
+        },
+        {
+          "client_id": "993505853842-1v49bi0h7i694kvq7a10akn2kq7p36nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37uDfptqwU8WJk0yWLey0eD0L9VvfVb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993505853842-1v49bi0h7i694kvq7a10akn2kq7p36nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
